@@ -1,2 +1,2 @@
-# programming4robotics
-Programming for Robotics Course @ ETHZ (http://www.rsl.ethz.ch/education-students/lectures/ros.html)
+# Programming for Robotics
+Programming for Robotics Course @ ETHZ [[link](http://www.rsl.ethz.ch/education-students/lectures/ros.html)]
